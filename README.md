@@ -25,3 +25,7 @@ THEN the saved events persist<br/>
 ## Screenshot
 ![](./assets/images/daily-planner.png)
 
+## Deployed Site
+https://viakeegan.github.io/work-day-scheduler/
+
+
