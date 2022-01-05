@@ -1,3 +1,1 @@
-# readme
-
 # work-day-scheduler
