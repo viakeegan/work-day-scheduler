@@ -22,5 +22,6 @@ THEN the text for that event is saved in local storage<br/>
 WHEN I refresh the page<br/>
 THEN the saved events persist<br/>
 
+## Screenshot
 ![](./assets/images/daily-planner.png)
 
